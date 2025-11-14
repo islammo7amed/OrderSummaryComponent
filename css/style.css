@@ -9,7 +9,6 @@ body {
 	height: 100vh;
 	font-family: "Red Hat Display", sans-serif;
 	font-optical-sizing: auto;
-	font-weight: <weight>;
 	font-style: normal;
 	background: hsl(225, 100%, 94%) url('../assets/images/pattern-background-mobile.svg') no-repeat top / 100%;
 }
